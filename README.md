@@ -1,5 +1,6 @@
 Hi, I’m @LeonardoMadona
 
-I’m a game developer focused mostly in technical art stuff. I'm interested in creating new interactive experiences and exploring new concepts.
+I’m a brazilian developer and artist focused in graphic programming and technical art for games. 
 
-Reach me at leonardomadona@gmail.com
+Art portfolio: https://leonardomadona.myportfolio.com
+email: leonardomadona@gmail.com
